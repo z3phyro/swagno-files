@@ -1,0 +1,13 @@
+pkg: static
+
+dest: "./"
+
+fmt: true
+
+spread: true
+
+custom:
+  - files:
+      - "./swagger-ui/"
+
+    base: "swagger-ui"
