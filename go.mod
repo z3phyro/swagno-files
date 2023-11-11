@@ -1,4 +1,4 @@
-module github.com/go-swagno/swagno-files
+module github.com/z3phyro/swagno-files
 
 go 1.18
 
